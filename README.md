@@ -1,6 +1,8 @@
 # HeraldryData
  A repo of coats of arms to be used as a dataset for machine learning.
  
+ Find a few examples in ./ExampleImages.
+ 
 ## HeraldryDataScraper.py
  The Python script used to scrape the images from [4Crests](http://www.4crests.com).
  Having being written for Windows systems, this code will require modification for use on linux or MacOS
