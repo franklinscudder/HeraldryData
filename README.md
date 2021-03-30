@@ -6,7 +6,7 @@
  Having being written for Windows systems, this code will require modification for use on linux or MacOS
 
 ## data.zip
- This zipped directory contains the scraped .gif image files at a resolution of 75 by 105 px.
+ This zipped directory contains the 4,532 scraped .gif image files at a resolution of 75 by 105 px.
  
 ## Data Source
  All of this dataset is publicly available at http://www.4crests.com. All images remain the
