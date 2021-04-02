@@ -1,5 +1,5 @@
 # HeraldryData
- A repo of coats of arms to be used as a dataset for machine learning.
+ A repo of coats of arms (of questionable legitimacy) to be used as a dataset for machine learning.
  
  Find a few examples in ./ExampleImages.
  
