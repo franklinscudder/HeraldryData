@@ -3,15 +3,18 @@
  
  Find a few examples in ./ExampleImages.
  
+ *CAVEAT USOR!!*
+ Some data are repeated and the set has not been hand-checked or verified for any level of uniformity or consistency!
+ 
 ## HeraldryDataScraper.py
  The Python script used to scrape the images from [4Crests](http://www.4crests.com).
  Having being written for Windows systems, this code will require modification for use on linux or MacOS
 
 ## data.zip
- This zipped directory contains the 4,532 scraped .gif image files at a resolution of 75 by 105 px.
+ This zipped directory contains the 4,529 scraped .gif image files at a resolution of 75 by 105 px.
  
- - SHA1 (compressed): A92D4308ECF9697093C7AD22CBE195C941B322C6
- - Size (Compressed): 24.7 MB
+ - SHA-1 (compressed): 78CC731B8F611BBB218AD6DDDB1BE3BC4F538F77
+ - Size (Compressed): 24.6 MB
  - Size (Uncompressed): 24.4 MB
  
 ## Data Source
